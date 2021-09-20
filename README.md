@@ -1,3 +1,2 @@
-# esc-projects
-It is my first user story  repository
-It is Branch1
+It is branch1.
+It is readme file.
